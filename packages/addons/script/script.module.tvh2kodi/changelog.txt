@@ -1,0 +1,45 @@
+v2.0
+- initial LE repo release
+
+v1.9.5
+- add picons downloader
+
+v1.9
+- add timeshift options under DVR configuration
+- fix epg grabber progress bar
+
+v1.8.1
+- fix username-password display
+
+v1.8
+- add support for IPTV Networks
+- fix error in muxes when 0 muxes available
+
+v1.7
+- add support for Tvh username-password
+
+v1.6
+- add backup and import of tvh userdata
+- add channel icon reset option
+
+v1.5
+- add progress bar for internal epg grab
+- add base tvh config parameters (set dvb scan files and channel icon paths)
+
+v1.4
+- fix adapter network issue
+- add multiple network support to adapter
+- allow custom Tvh server ip to be recalled
+
+v1.3
+- add support for DVB-S mux editing
+
+v1.2
+- fix error in network parameters load
+- fix wrong epg parameter selection
+
+v1.1
+- add triggers for OTA and internal grabbers
+
+v1.0
+- initial release
